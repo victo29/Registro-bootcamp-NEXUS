@@ -61,3 +61,7 @@
 -Hospedagem de site e apps
 -Armazenamento de dados
 -Analise de dados
+
+
+
+-TESTE DE ATUALIZAÇÃO
